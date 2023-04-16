@@ -1,0 +1,100 @@
+
+INSTRUCTIONS
+
+Requirements
+1. Find an article with interesting stats
+2. Get approval for the article from the professor
+3. Briefly summarize the main points/research questions
+4. Scrutinize their methods
+   4.1. Explanation of analysis
+       4.1.1 What did they do?
+       4.1.2 How did they do it?
+       4.1.3 Why did they do it?
+   4.2. Appropriateness/novelty of analysis
+       4.2.1 Given what you know/what you have previously read, was this 
+       the best analysis?
+       4.2.2 Did they do something you haven’t seen before? What? Why? How?
+  4.3. Presentation of results
+       4.3.1 Did they properly/accurately explain their results?
+       4.3.2 Did they properly/accurately interpret their findings?
+       4.3.3 Did they use tables/graphs? Did the tables/graphs facilitate the interpretation of the results?
+5. Briefly describe why/what you liked or disliked about their analysis
+
+
+SHIN & OTHEGUY (2013)
+3. Context
+Background literature (briefly):
+  * ML settings: gender and social class as relevant variables of language 
+  change. Is this the same in immigrant BL settings? 
+  * This study examines the role of social class and gender in an ongoing 
+  change (change in progress) in NYC Spanish -> the variable use of subject
+  pronouns.
+  * Differences of pronoun rates between Spanish and English: Spanish as a pro-
+  drop language vs English as a non-pro-drop language.
+  * Results: the change occurs most rapidly among the more affluent Latino 
+  communities and among women (first-generation). THEY REPORT MORE THINGS IN 
+  THE INTRODUCTION. 
+  I SHOULD CHECK. 
+  * Novelty of the study: they separate participants by national origin (p. 
+  430).
+  * Explanations by internal factors (e.g., ceiling effect) and external factors
+  (e.g., longer in NYC, higher levels of English, more affluent, sex/gender) 
+  (p. 431).
+  * Important stuff: opposite pattern in ML settings as of social class of the 
+  leaders of change + women as the leaders of change as in ML settings.
+  * Previous research: 
+     * On ML settings: strong tendency for language change to be led by working 
+     or lower middle class people and by women. 
+     * On BL settings: scarce research? (+ preguntar a Austin, p. 432) + some
+     previous research supports the role of social class and gender in changes
+     taking place in BL contexts (Orozco, 2007, 2009a, 2009b; Alfaraz, 2010; Van
+     Ness, 1995).
+     * Foundation of the present study: Otheguy & Zentella (2012). They found
+     some evidence for the impact of social class and gender on changes in 
+     pronominal use in Spanish in NYC. Participants divided into 2 groups: 
+     Caribbean and Mainland Latin America. No effects of class on pronoun rates 
+     among Caribbeans, but did among Mainlanders (working class vs middle 
+     class). Effects of gender on pronoun rates among Mainlanders, not among 
+     Caribbeans. 
+     -> Este estudio quiere saber si el origen nacional influye en este cambio.
+
+Research Questions:
+Not explicit. Possible RQ:
+  1. PENSAR CÓMO FORMULAR ESTA PREGUNTA - 
+  "While the division of the Otheguy-Zentella corpus into two regions has 
+  revealed important observations regarding change in NYC, such a whole-sample
+  approach leaves us with questions regardind people of various national 
+  origins. The current study more precisely pinpoints the Latinos who undergo
+  greater and lesser amounts of change in New York." (p. 433)
+      e.g. How does national origin impact the variable use of subject pronouns
+      in NYC Spanish?
+      e.g. Is there any difference in the variable use of subject pronouns in
+      NYC Spanish based on demographic location/national origin?
+      e.g. How different is the variable use of subject pronouns in NYC Spanish
+      based on national origin?
+  2. Does social class impact the variable use of subject pronouns in NYC 
+  Spanish toward more Anglicized patterns of subject pronoun use?
+  3. Does gender impact the variable use of subject pronouns in NYC 
+  Spanish toward more Anglicized patterns of subject pronoun use?
+
+Methodology
+Participants: n = 140 - Newcomers vs New Yorkers
+  * Newcomers - n = 39 (arrived at age 17 or older, no more than 5 years in 
+  NYC)
+  * New Yorkers - n = 101 (born in NYC OR arrived at age 16 before OR arrived 
+  at age 17 or older but more than 5 years in NYC).
+  _# ¿Esta diferencia (n) podría haber impactado los resultados de algún modo?_
+  _# Argumentan esta diferencia diciendo que en cada país hay una cantidad_
+  _parecida o igual si se miran dentro del gran grupo (newcomers vs NYs)._ 
+  _# Is this argument enough?_
+Data: interviews from the Otheguy-Zentella corpus - tokens of all tensed verbs
+that occur with a subject pronoun but could have occurred without one, or that
+are found without a pronoun but could have been found with one, and that make
+animate references. 
+-> They examine the tensed verbs in contexts where pronoun usage is variable. 
+
+4. Scrutinize their methods
+4.1. Explanation of the analysis
+4.1.1. What did they do?
+4.1.2. How did they do it?
+4.1.3. Why did they do it?
